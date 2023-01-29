@@ -29,7 +29,7 @@
     "eslint-plugin-react": "7.22.0",
     "gulp": "4.0.2",
     "gulp-load-plugins": "2.0.6",
-    "gulp-sass": "4.1.0",
+    "gulp-sass": "5.1.0",
     "gulp-sourcemaps": "3.0.0",
     "gulp-uglify": "3.0.2",
     "gulp-util": "3.0.6",
