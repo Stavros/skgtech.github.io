@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/skgtech/skgtech.github.io#readme",
   "devDependencies": {
-    "browser-sync": "3.0.2",
+    "browser-sync": "3.0.3",
     "browserify": "17.0.0",
     "calendarth": "0.0.6",
     "eslint": "7.21.0",
